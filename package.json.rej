@@ -1,0 +1,11 @@
+diff a/package.json b/package.json	(rejected hunks)
+@@ -10,7 +10,9 @@
+     "build": "node build/build.js"
+   },
+   "dependencies": {
++    "axios": "^0.16.2",
+     "js-cookie": "^2.1.4",
++    "js-md5": "^0.6.0",
+     "vue": "^2.3.3",
+     "vue-awesome-swiper": "^2.5.4",
+     "vue-router": "^2.6.0",
